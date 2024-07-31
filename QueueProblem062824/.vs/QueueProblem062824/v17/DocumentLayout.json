@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\rlaeorl\\Desktop\\Study\\\uB9C8\uC774\uD06C\uB85C\uCEE8\uD2B8\uB864\uB7EC\\QueueProblem062824\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{91038836-0149-4B94-8721-938562DF1403}|QueueProblem062824\\QueueProblem062824.vcxproj|C:\\Users\\rlaeorl\\Desktop\\Study\\\uB9C8\uC774\uD06C\uB85C\uCEE8\uD2B8\uB864\uB7EC\\QueueProblem062824\\QueueProblem062824\\QueueProblem062824.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{91038836-0149-4B94-8721-938562DF1403}|QueueProblem062824\\QueueProblem062824.vcxproj|solutionrelative:QueueProblem062824\\QueueProblem062824.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "QueueProblem062824.cpp",
+              "DocumentMoniker": "C:\\Users\\rlaeorl\\Desktop\\Study\\\uB9C8\uC774\uD06C\uB85C\uCEE8\uD2B8\uB864\uB7EC\\QueueProblem062824\\QueueProblem062824\\QueueProblem062824.cpp",
+              "RelativeDocumentMoniker": "QueueProblem062824\\QueueProblem062824.cpp",
+              "ToolTip": "C:\\Users\\rlaeorl\\Desktop\\Study\\\uB9C8\uC774\uD06C\uB85C\uCEE8\uD2B8\uB864\uB7EC\\QueueProblem062824\\QueueProblem062824\\QueueProblem062824.cpp",
+              "RelativeToolTip": "QueueProblem062824\\QueueProblem062824.cpp",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAAAA8AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-06-28T03:29:10.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
